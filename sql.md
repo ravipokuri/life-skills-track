@@ -5,7 +5,9 @@ SQL (Structured Query Language) is a powerful language used for managing and man
 #1. Basics of SQL:
 
 ##a) Creating a Table:
-To create a table, you use the CREATE TABLE statement. Here's an example of creating a table called "users" with columns for ID, name, age, and email:
+To create a table, you use the CREATE TABLE statement. Here's an example of creating a table called "users" with columns for ID, name, age, and email.
+
+
 ###code:
 CREATE TABLE users (
     id INT PRIMARY KEY,
